@@ -4,7 +4,6 @@
   "description": "My solutions to problems in Free Code Camp curriculum",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
